@@ -1,0 +1,5 @@
+python-types-six (1.16.2-0pexip1) pexip; urgency=medium
+
+  * Prepare Pexip Packaging
+
+ -- Huw Jones <huw@pexip.com>  Tue, 9 Nov 2021 18:15:36 +0000
